@@ -3,12 +3,12 @@ module.exports = {
     return [
       {
         source: "/",
-        destination: "https://dailybuzzs.com/",
+        destination: "https://ancient-archeology.com/",
         permanent: true,
       },
       // {
       //   source: "/:slug",
-      //   destination: "https://dailybuzzs.com/:slug",
+      //   destination: "https://ancient-archeology.com/:slug",
       //   permanent: true,
       // },
     ];
