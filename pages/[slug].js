@@ -29,7 +29,7 @@ export default function Post({ post }) {
         />
         <meta
           property="og:url"
-          content={`https://archaeologyworlds.vercel.app/${post[0]?.slug}`}
+          content={`https://dump-six.vercel.app/${post[0]?.slug}`}
         />
       </Head>
     </div>
